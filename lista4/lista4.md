@@ -1,4 +1,4 @@
-https://leetcode.com/problems/first-unique-character-in-a-string/
+https://leetcode.com/problems/first-unique-character-in-a-string/ - OK
 https://leetcode.com/problems/longest-palindrome/
 https://leetcode.com/problems/keyboard-row/
 https://leetcode.com/problems/two-sum/
