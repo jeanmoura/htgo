@@ -1,14 +1,14 @@
-https://leetcode.com/problems/contains-duplicate/ - Easy
-https://leetcode.com/problems/valid-anagram/ - Easy
+https://leetcode.com/problems/contains-duplicate/- Easy OK
+https://leetcode.com/problems/valid-anagram/ - Easy OK
 https://leetcode.com/problems/rotate-string/ - Easy
 https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1205/ - Easy
 https://leetcode.com/problems/merge-two-sorted-lists/  - Easy
-https://leetcode.com/problems/remove-duplicates-from-sorted-list/  - Easy
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/  - Easy OK
 https://leetcode.com/problems/linked-list-cycle/ - Easy
 https://leetcode.com/problems/linked-list-cycle-ii/ - Medium
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/ - Medium
 https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/ - Medium
-https://leetcode.com/problems/maximum-subarray/ - Medium with a new paradigm
+https://leetcode.com/problems/maximum-subarray/ - Medium with a new paradigm - OK
 https://leetcode.com/problems/isomorphic-strings/ - Easy with hash
 https://leetcode.com/problems/permutation-in-string/ - Medium with hash
 https://leetcode.com/problems/longest-common-prefix/ - Easy (?)
