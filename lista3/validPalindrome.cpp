@@ -13,27 +13,26 @@ int main(){}
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int left = 0, right = s.size() - 1;
-        while (left <= right) {
-            while (!isTarget(s[left]) && left < right) {
-                left++;
-            }
-            while (!isTarget(s[right]) && left < right) {
-                right--;
-            }
-            if (toLower(s[left]) != toLower(s[right])) {
-                return false;
-            }
-            left++, right--;
+    
+    string words = "";
+    for(int i=0;i<s.size();i++){
+        if(isalnum(s[i])){
+            words+=tolower(s[i]);
         }
-        return true;
     }
-    bool isTarget(char c) {
-        return (('A' <= c && c <= 'Z') || 
-                ('a' <= c && c <= 'z') || 
-                ('0' <= c && c <= '9')) ? true : false;
+    
+    int n = words.size();
+    int i=0;
+    int j=n-1;
+    
+    while(i<=j){
+        if(words[i]!=words[j]){
+            return false;
+        }
+        i++;
+        j--;
     }
-    char toLower(char c) {
-        return ('A' <= c && c <= 'Z') ? c + 32 : c;
-    }
-};
+    
+    return true;
+    
+}};
